@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <remote fetch="git://git.ti.com/"      name="origin"/>
+   <project remote="origin" path="sdk_builder"                             name="processor-sdk/sdk_builder"            revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="app_utils"                               name="processor-sdk/app_utils"              revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="vision_apps"                             name="processor-sdk/vision_apps"            revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="tiovx"                                   name="processor-sdk/tiovx"                  revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="imaging"                                 name="processor-sdk/imaging"                revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="video_io"                                name="processor-sdk/video_io"               revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="ti-perception-toolkit"                   name="processor-sdk/ti-perception-toolkit"  revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="psdk_include"                            name="processor-sdk/psdk_include"           revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="psdk_include/tidl_j7/arm-tidl"           name="processor-sdk-vision/arm-tidl"        revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+   <project remote="origin" path="sdk_builder/concerto"                    name="processor-sdk/concerto"               revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
+</manifest>
