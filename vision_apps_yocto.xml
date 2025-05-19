@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-   <remote fetch="git://git.ti.com/"      name="origin"/>
+   <remote fetch="https://git.ti.com/"      name="origin"/>
    <project remote="origin" path="sdk_builder"                             name="processor-sdk/sdk_builder"            revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
    <project remote="origin" path="app_utils"                               name="processor-sdk/app_utils"              revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
    <project remote="origin" path="vision_apps"                             name="processor-sdk/vision_apps"            revision="refs/tags/REL.PSDK.ANALYTICS.10.00.00.04"/>
